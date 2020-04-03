@@ -1,0 +1,45 @@
+/* Mise en forme polices */
+
+body {
+	font-family:Open Sans;
+}
+
+/* Mise en forme des classes */
+
+span.wr {
+	color: #c0392b;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+span.accent {
+	font-style: italic;  
+}
+
+span.small {
+	font-size: 6.4px;
+}
+
+/* Mise en forme du multicolor */
+
+span.colored {
+
+}
+
+#rbw {
+
+}
+
+span.sb {
+	color:#00e;
+}
+
+/* Mise en forme des liens */
+
+a {
+	color:#07a;
+}
+
+a:visited {
+	color:#941352;
+}
